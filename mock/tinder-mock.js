@@ -4,14 +4,14 @@ export const user = {
   displayName: "The Coder's Studios",
   age: '80',
   photoURL:
-    'https://cdn.discordapp.com/attachments/1073889482341875812/1074253729219481690/DALLE_2023-02-11_16.03.49_-_simple_computer_in_90s_modern_art_in_dark_theme.png',
+    'https://cdn.discordapp.com/attachments/1118899601039171597/1118902431384862720/labtop-logo.webp',
 };
 
 export const etc = {
   loginBg: 'https://tinder.com/static/tinder.png',
-  logo: 'https://cdn.discordapp.com/attachments/1073889482341875812/1074255223117332591/logo.png',
+  logo: 'https://cdn.discordapp.com/attachments/1118899601039171597/1118904179537227826/pngwing.com.png',
   matchedLogo:
-    'https://cdn.discordapp.com/attachments/1073889482341875812/1075141288141279325/its-a-match.png',
+    'https://cdn.discordapp.com/attachments/1118899601039171597/1118906861664616560/its-a-match_1.png',
 };
 
 export const users = [
